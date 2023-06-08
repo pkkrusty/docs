@@ -8,7 +8,7 @@ Most builds support only the common IR protocols, but [tasmota-ir.bin](Tasmota-I
 
 
 ### Wiring
-| IR w/ 2N222   | ESP |
+| IR w/ 2N2222   | ESP |
 |---|---|
 |data   |GPIOx   |
 |+   | 3.3v/5v  |
